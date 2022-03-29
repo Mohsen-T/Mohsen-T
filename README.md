@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Mohsen is a senior blockchain engineer with 3+ years of experience and proficiency in writing smart contracts for many different features of DeFi Protocols, NFT Minting/Staking/Voting/Marketplaces as well as dApps like P2E onchain gaming portal and more.
 Operating as a software engineer for the last 15 years of his life, combined with B.Sc. in Systems Engineering, he has deep understanding on software architecture as well as writing neat and clean commented codebase.
 He was one of the core dev team members of very successful DeFi/NFT projects like GrowthDefi and SewerRatSocial, along with big companies like FlrFinance. His proven industrial blockchain experience got him confidence not only in his abilities and skills but also professionalism.
-He is fairly fluent with solidity and very used to all the libraries and tools for compiling and deploying smart contracts over EVM networks like Ethereum and Binance Smart Chain and layer 2 solutions like Polygon,Avanlanche etc. 
+He is fairly fluent with solidity and very used to all the libraries and tools for compiling and deploying smart contracts over EVM networks like Ethereum and Binance Smart Chain and layer 2 solutions like Polygon,Avanlanche etc. He also has rich experience in immutable X, which is another layer2 solution for ERC721 based NFTs.
 He believes himself as a result-oriented programmer and a strong communicator who understands the remote work culture and loves to fast-grow with startups from ground up.
 <br><br>
 </p>
