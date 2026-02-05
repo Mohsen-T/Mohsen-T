@@ -38,30 +38,40 @@ I thrive in **remote-first, fast-moving teams**, and I enjoy working on products
 - TypeScript, JavaScript
 - Redux, Hooks, State Management
 - HTML5, CSS3, Tailwind
-
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </p>
 #### Backend
 - Node.js, Express
 - REST & GraphQL APIs
 - PostgreSQL, MySQL, MongoDB
 - Authentication, authorization, security best practices
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> </p>
 
 #### Blockchain
 - Solidity (EVM)
 - DeFi protocols, NFTs, on-chain gaming
 - Web3.js, Ethers.js
 - Ethereum, BSC, Polygon, Avalanche, L2s
+<p> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /> <img src="https://img.shields.io/badge/Ethers.js-F05032?style=for-the-badge" /> <img src="https://img.shields.io/badge/Web3.js-4EA94B?style=for-the-badge&logo=web3dotjs&logoColor=white" /> <img src="https://img.shields.io/badge/DeFi-0052CC?style=for-the-badge" /> <img src="https://img.shields.io/badge/NFTs-FF9900?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" /> </p>
 
 #### Cloud & DevOps
 - AWS (Lambda, API Gateway, EC2, S3)
 - Docker
 - CI/CD pipelines
 - Infrastructure-aware system design
+<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
 
 #### AI & Automation (Applied)
 - AI-powered feature integration
 - Data-driven workflows
 - API-first design for ML/AI services
 - Performance & scalability for intelligent systems
+<p> <img src="https://img.shields.io/badge/AI--Powered%20Features-000000?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/API--Driven%20AI-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Pipelines-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge" /> </p>
+
+#### Databases
+<p> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
+
+#### Tools & Workflow
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Design-6A5ACD?style=for-the-badge" /> </p>
 
 ---
 
