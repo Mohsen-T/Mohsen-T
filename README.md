@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-I’m **Mohsen**, a senior software engineer with **8+ years of professional experience** building production-grade systems across **full-stack web development, blockchain, and cloud infrastructure**.
+I’m **Mohsen**, a senior software engineer with **10+ years of professional experience** building production-grade systems across **full-stack web development, blockchain, and cloud infrastructure**.
 
 While I’m well known for my work in **DeFi, smart contracts, and Web3**, my core strength is **end-to-end system design** — from backend APIs and databases to modern frontends and cloud deployments.
 
@@ -39,6 +39,7 @@ I thrive in **remote-first, fast-moving teams**, and I enjoy working on products
 - Redux, Hooks, State Management
 - HTML5, CSS3, Tailwind
 <p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </p>
+
 #### Backend
 - Node.js, Express
 - REST & GraphQL APIs
